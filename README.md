@@ -56,8 +56,12 @@
 ### Contact with me
 
 <div>
-  <a><img alt="LinkedIn" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/fabrizio-orcada-vega-3092051b0" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a><img alt="Gmail" href="mailto:vashfabrizio@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/fabrizio-orcada-vega-3092051b0">
+    <img alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="mailto:vashfabrizio@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
 </div>
 
 ### Spotify Playing 🎧
