@@ -12,9 +12,6 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 <br>
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=FabrizioVash&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
-
 ## Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FabrizioVash&theme=algolia" alt="FabrizioVash"  /></p>
 
