@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-- I am a `Senior Web Developer` at [NTTDATA]([https://www.cajahuancayo.com.pe](https://es.nttdata.com)).
+- I am a `Senior Web Developer` at [NTTDATA]([https://es.nttdata.com])).
 - I love using Software as a solution for every `Problem`.
 - Always `learning new things`.
 - I’m currently open for a new `job opportunity`.
